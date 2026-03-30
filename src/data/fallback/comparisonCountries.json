@@ -1,0 +1,180 @@
+{
+  "countries": [
+    { "code": "USA", "name": "United States" },
+    { "code": "IND", "name": "India" },
+    { "code": "CHN", "name": "China" },
+    { "code": "NGA", "name": "Nigeria" },
+    { "code": "BRA", "name": "Brazil" },
+    { "code": "DEU", "name": "Germany" },
+    { "code": "JPN", "name": "Japan" }
+  ],
+  "series": {
+    "SP.DYN.LE00.IN": {
+      "USA": [
+        { "year": 1960, "value": 69.8 },
+        { "year": 1980, "value": 73.7 },
+        { "year": 2000, "value": 76.8 },
+        { "year": 2010, "value": 78.7 },
+        { "year": 2020, "value": 77.3 },
+        { "year": 2024, "value": 78.5 }
+      ],
+      "IND": [
+        { "year": 1960, "value": 41.3 },
+        { "year": 1980, "value": 54.2 },
+        { "year": 2000, "value": 62.5 },
+        { "year": 2010, "value": 67.6 },
+        { "year": 2020, "value": 69.7 },
+        { "year": 2024, "value": 70.8 }
+      ],
+      "CHN": [
+        { "year": 1960, "value": 43.7 },
+        { "year": 1980, "value": 66.8 },
+        { "year": 2000, "value": 71.4 },
+        { "year": 2010, "value": 75.2 },
+        { "year": 2020, "value": 78.1 },
+        { "year": 2024, "value": 78.6 }
+      ],
+      "NGA": [
+        { "year": 1960, "value": 38.2 },
+        { "year": 1980, "value": 45.3 },
+        { "year": 2000, "value": 46.0 },
+        { "year": 2010, "value": 52.0 },
+        { "year": 2020, "value": 54.3 },
+        { "year": 2024, "value": 55.5 }
+      ],
+      "BRA": [
+        { "year": 1960, "value": 54.2 },
+        { "year": 1980, "value": 62.5 },
+        { "year": 2000, "value": 71.4 },
+        { "year": 2010, "value": 73.9 },
+        { "year": 2020, "value": 75.9 },
+        { "year": 2024, "value": 76.5 }
+      ],
+      "DEU": [
+        { "year": 1960, "value": 69.4 },
+        { "year": 1980, "value": 73.8 },
+        { "year": 2000, "value": 78.2 },
+        { "year": 2010, "value": 80.3 },
+        { "year": 2020, "value": 81.1 },
+        { "year": 2024, "value": 81.8 }
+      ],
+      "JPN": [
+        { "year": 1960, "value": 67.7 },
+        { "year": 1980, "value": 76.1 },
+        { "year": 2000, "value": 81.1 },
+        { "year": 2010, "value": 82.8 },
+        { "year": 2020, "value": 84.6 },
+        { "year": 2024, "value": 84.9 }
+      ]
+    },
+    "SI.POV.DDAY": {
+      "USA": [
+        { "year": 1960, "value": 1.2 },
+        { "year": 1980, "value": 0.9 },
+        { "year": 2000, "value": 0.7 },
+        { "year": 2010, "value": 0.6 },
+        { "year": 2020, "value": 0.2 },
+        { "year": 2024, "value": 0.2 }
+      ],
+      "IND": [
+        { "year": 1960, "value": 82.0 },
+        { "year": 1980, "value": 60.0 },
+        { "year": 2000, "value": 35.0 },
+        { "year": 2010, "value": 21.0 },
+        { "year": 2020, "value": 11.0 },
+        { "year": 2024, "value": 10.0 }
+      ],
+      "CHN": [
+        { "year": 1960, "value": 88.0 },
+        { "year": 1980, "value": 65.0 },
+        { "year": 2000, "value": 34.0 },
+        { "year": 2010, "value": 12.0 },
+        { "year": 2020, "value": 1.0 },
+        { "year": 2024, "value": 1.0 }
+      ],
+      "NGA": [
+        { "year": 1960, "value": 70.0 },
+        { "year": 1980, "value": 65.0 },
+        { "year": 2000, "value": 55.0 },
+        { "year": 2010, "value": 49.0 },
+        { "year": 2020, "value": 40.0 },
+        { "year": 2024, "value": 38.0 }
+      ],
+      "BRA": [
+        { "year": 1960, "value": 28.0 },
+        { "year": 1980, "value": 17.0 },
+        { "year": 2000, "value": 11.0 },
+        { "year": 2010, "value": 8.0 },
+        { "year": 2020, "value": 5.0 },
+        { "year": 2024, "value": 5.0 }
+      ],
+      "DEU": [
+        { "year": 1960, "value": 0.5 },
+        { "year": 1980, "value": 0.3 },
+        { "year": 2000, "value": 0.2 },
+        { "year": 2010, "value": 0.2 },
+        { "year": 2020, "value": 0.1 },
+        { "year": 2024, "value": 0.1 }
+      ],
+      "JPN": [
+        { "year": 1960, "value": 0.7 },
+        { "year": 1980, "value": 0.5 },
+        { "year": 2000, "value": 0.4 },
+        { "year": 2010, "value": 0.3 },
+        { "year": 2020, "value": 0.2 },
+        { "year": 2024, "value": 0.2 }
+      ]
+    },
+    "IT.NET.USER.ZS": {
+      "USA": [
+        { "year": 1990, "value": 0.0 },
+        { "year": 2000, "value": 43.1 },
+        { "year": 2010, "value": 71.7 },
+        { "year": 2020, "value": 90.1 },
+        { "year": 2024, "value": 92.0 }
+      ],
+      "IND": [
+        { "year": 1990, "value": 0.0 },
+        { "year": 2000, "value": 0.5 },
+        { "year": 2010, "value": 7.5 },
+        { "year": 2020, "value": 41.0 },
+        { "year": 2024, "value": 55.0 }
+      ],
+      "CHN": [
+        { "year": 1990, "value": 0.0 },
+        { "year": 2000, "value": 1.8 },
+        { "year": 2010, "value": 34.3 },
+        { "year": 2020, "value": 70.0 },
+        { "year": 2024, "value": 77.0 }
+      ],
+      "NGA": [
+        { "year": 1990, "value": 0.0 },
+        { "year": 2000, "value": 0.1 },
+        { "year": 2010, "value": 24.0 },
+        { "year": 2020, "value": 42.0 },
+        { "year": 2024, "value": 55.0 }
+      ],
+      "BRA": [
+        { "year": 1990, "value": 0.0 },
+        { "year": 2000, "value": 2.9 },
+        { "year": 2010, "value": 40.6 },
+        { "year": 2020, "value": 81.0 },
+        { "year": 2024, "value": 86.0 }
+      ],
+      "DEU": [
+        { "year": 1990, "value": 0.0 },
+        { "year": 2000, "value": 30.2 },
+        { "year": 2010, "value": 82.0 },
+        { "year": 2020, "value": 92.0 },
+        { "year": 2024, "value": 95.0 }
+      ],
+      "JPN": [
+        { "year": 1990, "value": 0.0 },
+        { "year": 2000, "value": 47.0 },
+        { "year": 2010, "value": 78.0 },
+        { "year": 2020, "value": 93.0 },
+        { "year": 2024, "value": 95.0 }
+      ]
+    }
+  }
+}

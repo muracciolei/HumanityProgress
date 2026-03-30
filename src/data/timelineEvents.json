@@ -1,0 +1,72 @@
+[
+  {
+    "year": 1796,
+    "title": "First Vaccine Demonstration",
+    "description": "Edward Jenner demonstrates smallpox vaccination, launching modern immunization.",
+    "sourceLabel": "WHO — History of vaccination",
+    "sourceUrl": "https://www.who.int/news-room/spotlight/history-of-vaccination"
+  },
+  {
+    "year": 1840,
+    "title": "Expansion of Public Schooling",
+    "description": "Compulsory and publicly funded education systems spread across Europe and North America.",
+    "sourceLabel": "UNESCO — Global education history",
+    "sourceUrl": "https://www.unesco.org/en/education"
+  },
+  {
+    "year": 1948,
+    "title": "World Health Organization Founded",
+    "description": "WHO is established to coordinate international public health and disease control.",
+    "sourceLabel": "WHO — About us",
+    "sourceUrl": "https://www.who.int/about"
+  },
+  {
+    "year": 1960,
+    "title": "Global Child Mortality Monitoring Scales Up",
+    "description": "International statistical systems begin regular cross-country mortality tracking.",
+    "sourceLabel": "World Bank Data Catalog",
+    "sourceUrl": "https://data.worldbank.org/"
+  },
+  {
+    "year": 1974,
+    "title": "Expanded Programme on Immunization",
+    "description": "WHO starts a global initiative to increase vaccination against major childhood diseases.",
+    "sourceLabel": "WHO — Expanded Programme on Immunization",
+    "sourceUrl": "https://www.who.int/teams/immunization-vaccines-and-biologicals"
+  },
+  {
+    "year": 1980,
+    "title": "Smallpox Declared Eradicated",
+    "description": "WHO certifies global eradication of smallpox, a landmark in public health.",
+    "sourceLabel": "WHO — Smallpox fact sheet",
+    "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/smallpox"
+  },
+  {
+    "year": 1990,
+    "title": "Global Poverty and Development Goals Era",
+    "description": "International tracking of poverty reduction accelerates through coordinated targets.",
+    "sourceLabel": "World Bank — Poverty and shared prosperity",
+    "sourceUrl": "https://www.worldbank.org/en/topic/poverty"
+  },
+  {
+    "year": 2000,
+    "title": "Internet Adoption Enters Global Growth Phase",
+    "description": "Rapid internet diffusion expands access to information, services, and communication worldwide.",
+    "sourceLabel": "World Bank API — Internet users",
+    "sourceUrl": "https://api.worldbank.org/v2/country/all/indicator/IT.NET.USER.ZS?format=json"
+  },
+  {
+    "year": 2015,
+    "title": "Sustainable Development Goals Adopted",
+    "description": "UN members align around measurable targets on health, education, equality, and poverty.",
+    "sourceLabel": "United Nations — SDGs",
+    "sourceUrl": "https://sdgs.un.org/goals"
+  },
+  {
+    "year": 2020,
+    "title": "Global Scientific Collaboration at Scale",
+    "description": "Cross-border research and publication networks expand rapidly, especially in biomedical sciences.",
+    "sourceLabel": "World Bank API — Scientific publications",
+    "sourceUrl": "https://api.worldbank.org/v2/country/all/indicator/IP.JRN.ARTC.SC?format=json"
+  }
+]
