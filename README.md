@@ -119,17 +119,31 @@ npm run preview
 
 ## Deploy to GitHub Pages
 
-This project is configured with a relative Vite base (`./`) and includes `gh-pages`.
+This project uses **GitHub Actions** for automatic deployment to GitHub Pages. The deployment is triggered automatically whenever code is pushed to the `main` branch.
 
-1. Commit all files.
-2. Run:
+### Automatic Deployment
+
+1. **Push to main branch**: The workflow automatically runs on every push to `main`
+2. **GitHub Actions builds**: Installs dependencies, builds the project, and deploys to GitHub Pages
+3. **Live site**: Available at https://muracciolei.github.io/HumanityProgress/
+
+### Manual Deployment (Alternative)
+
+If you need to deploy manually:
 
 ```bash
 npm run deploy
 ```
 
-3. In GitHub repository settings:
-   - Pages → Source: `gh-pages` branch (root)
+### GitHub Pages Configuration
+
+In your repository settings:
+- **Settings → Pages**
+- **Source**: "Deploy from branch"
+- **Branch**: `main`
+- **Folder**: `/dist`
+
+The GitHub Actions workflow handles the deployment automatically, so manual configuration is not required.
 
 ## How to Add a New Indicator
 
