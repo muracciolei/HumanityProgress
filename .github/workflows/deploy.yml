@@ -37,9 +37,6 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -48,3 +45,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+# Alternative: If Jekyll continues to interfere, uncomment below and use peaceiris/action instead
+# But first, go to Settings > Pages and ensure "GitHub Actions" is selected as the source, not "Deploy from branch" 
